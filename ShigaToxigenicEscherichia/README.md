@@ -17,7 +17,7 @@ The file named **MetadataShigatoxChristnermetadata** is a `.csv` file associated
 - **id_number:** corresponding to the number of the strain
 - **Strain_number:** corresponding to the name of the strain in the study
 - **spot:** corresponding to the plate spot for MALDI-TOF MS analysis
-- **type_of_extraction: ** type of extraction for MALDI-TOF MS analysis (only formic acid extraction was used (fae))
+- **type_of_extraction:** type of extraction for MALDI-TOF MS analysis (only formic acid extraction was used (fae))
 
 ## References
 - **Dataset:**
